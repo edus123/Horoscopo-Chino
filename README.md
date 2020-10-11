@@ -7,3 +7,5 @@ es una pagina web que pide registro y muestra el horóscopo Chino en base al añ
 para el front end javascript, jquery, jstl y el framework bootstrap para el estilo.
 
 El zip proveído trae todos los archivos necesarios para hacer andar la web ( las clases java, los archivos jsp y el script para MysqlWorkbench para la creación de la base de datos) para que ande se debe tener ApacheTomcat en el computador (para que los jsp puedan andar en el server que configura tomcat) los jsp se pueden abrir con un navegador como google y el script se abre con  el motor de Mysql.
+
+Hay imágenes en la sección issues.
