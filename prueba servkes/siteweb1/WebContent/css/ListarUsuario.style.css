@@ -1,0 +1,22 @@
+
+#botonBuscar:hover {
+    background: yellow;
+    color: #541010 !important;
+    font-weight: bold;
+}
+
+#botoncCerrar:hover {
+    background: red;
+    color: yellow !important;
+    font-weight: bold;
+}
+
+body {
+    background: #b51d1d;
+}
+
+#botonBorrar:hover {
+    background: white !important;
+    color: #541010 !important;
+    font-weight: bold;
+}

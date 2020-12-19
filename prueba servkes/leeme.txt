@@ -1,0 +1,11 @@
+disculpe la demora 
+
+
+el Flujo comienza en PaginaPrincipal.jsp
+asi que agradecería que abrieran esa :P
+
+
+
+la validacion de base de dato la hice en jsp. cuando me enteré que no era una practica recomendad porque comprometìa a los datos de la base, ya la había hecho.Por lo que la dejé así, ya que como ejercicio creativo me tomó bastante tiempo(como 4 dias ).
+
+:) 
